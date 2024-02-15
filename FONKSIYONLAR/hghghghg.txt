@@ -1,0 +1,4 @@
+bilgisayar açıldığında kendisi bir parola istiyicek
+olmadı yüz tanımayla açacak kendisini.
+
+BAKALIM YAPABLCEKMİYİM

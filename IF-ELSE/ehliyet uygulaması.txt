@@ -1,0 +1,5 @@
+ehliyet yaşın küçükse 
+veya yaşın 1 yaş küçükse
+kullanıcıya yani ehliyetin yaşı yetip yetmediğini soracak
+böylece insanlar yaşı ehliyrt için yetiyomu
+yetöiyomu öğrencek
